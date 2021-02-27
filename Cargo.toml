@@ -1,0 +1,8 @@
+[package]
+name = "saint_gen"
+version = "0.1.0"
+authors = ["Sag0Sag0 <laurencebelastevens@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
